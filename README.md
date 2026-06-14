@@ -142,6 +142,6 @@ Designed to run on **Google Colab** with GPU runtime (T4 or better). Requires Go
 - **Single frame**: pitch outline, penalty areas, and midfield line overlaid in semi-transparent polygons; player bounding boxes colored by team side (left/right); ball highlighted with a cyan circle and confidence score.
 - **Video**: same annotations applied frame-by-frame, with a HUD panel showing frame index, player counts per side, and geometry cache status.
 
-[Result frame](./result/result_frame.png)
+![Result frame](./result/result_frame.png)
 
 [Download DEMO RESULT](./result/result_video.mp4)
